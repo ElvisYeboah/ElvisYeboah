@@ -8,7 +8,7 @@ I am an aspiring AWS Solutions Architect with a strong foundation in Information
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [elvisyeboah555@gmail.com](mailto:elvisyeboah555@gmail.com)
-* 🧠  I'm learning I'm currently learning core AWS services, cloud architecture best practices, Infrastructure as Code, and DevOps tools to become a skilled and certified AWS Solutions Architect.
+* 🧠  I'm currently learning core AWS services, cloud architecture best practices, Infrastructure as Code, and DevOps tools to become a skilled and certified AWS Solutions Architect.
 * 🤝  I'm open to collaborating on I'm open to collaborating on cloud-based projects, infrastructure automation, system architecture designs, and IT support or networking solutions that solve real-world problems.
 
 ### Skills
